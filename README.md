@@ -19,8 +19,8 @@
 
 # Visualizing Environment
 ```
--Python 3.9.1
--Jupyter Notebook
+- Python 3.9.1
+- Jupyter Notebook
 
 ```
 
