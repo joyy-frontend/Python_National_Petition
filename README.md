@@ -6,7 +6,7 @@
 ![real_data_cloud](https://user-images.githubusercontent.com/50208120/104368859-fffda880-555f-11eb-8b7c-4a7057707bf2.PNG)
 
 
-## Introduction
+# Introduction
 ```
 1. 2020년 1월 11일 기준 청와대 국민청원 게시판 크롤링. 
 2. 제목만 뽑아와서 데이터 가공, 엑셀에 저장
@@ -17,7 +17,7 @@
 
 ```
 
-## Visualizing Environment
+# Visualizing Environment
 ```
 - Python 3.9.1
 - Jupyter Notebook
