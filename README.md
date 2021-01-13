@@ -27,3 +27,14 @@
 
 ```
 
+# Library
+```
+- selenium
+- BeautifulSoup
+- Konlpy
+- openpyxl
+- matplotlib
+- WordCloud
+- numpy
+
+```
